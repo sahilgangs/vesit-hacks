@@ -1,2 +1,2 @@
 # vesit-hacks
-WAKE UP AT 8 AM
+WAKE UP AT 10 AM
